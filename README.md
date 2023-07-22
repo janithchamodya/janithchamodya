@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithchamodya&label=Profile%20views&color=0e75b6&style=flat" alt="janithchamodya" /> </p>
 
-- 🌱 I’m currently studing software enginnering **HNDIT**
+- 🌱 I’m currently studing software enginnering **SLIATE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/janithchamodya](https://github.com/janithchamodya)
 
