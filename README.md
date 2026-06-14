@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/janithchamodya](https://github.com/janithchamodya)
 
-- 📫 How to reach me **janithchamodya19990416@gmail.com**
+- 📫 How to reach me **janithchamodya99@gmail.com**
 
 - ⚡ Fun fact **I am funny 😜**
 
